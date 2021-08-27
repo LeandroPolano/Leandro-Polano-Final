@@ -1,0 +1,7 @@
+C:\Users\leand\source\repos\Final Leandro Polano\Final Leandro Polano\bin\Debug\Final Leandro Polano.exe.config
+C:\Users\leand\source\repos\Final Leandro Polano\Final Leandro Polano\bin\Debug\Final Leandro Polano.exe
+C:\Users\leand\source\repos\Final Leandro Polano\Final Leandro Polano\bin\Debug\Final Leandro Polano.pdb
+C:\Users\leand\source\repos\Final Leandro Polano\Final Leandro Polano\obj\Debug\Final Leandro Polano.csproj.AssemblyReference.cache
+C:\Users\leand\source\repos\Final Leandro Polano\Final Leandro Polano\obj\Debug\Final Leandro Polano.csproj.CoreCompileInputs.cache
+C:\Users\leand\source\repos\Final Leandro Polano\Final Leandro Polano\obj\Debug\Final Leandro Polano.exe
+C:\Users\leand\source\repos\Final Leandro Polano\Final Leandro Polano\obj\Debug\Final Leandro Polano.pdb
